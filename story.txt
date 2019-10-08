@@ -1,2 +1,4 @@
 	One day, Leo sat down and decided to work on his CS400 homework. So she added a lot of text into this story.txt file because that was what she was supposed to do.
 	While he is writing is friends call him to play Dota 2 together. He immediately gives up on the homework problem and starts playing.
+
+The next day, when the homework was due, it was marked 0/100 because she decided to play video games instead of doing homework.
